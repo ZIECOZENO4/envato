@@ -1,11 +1,12 @@
 "use client"
 
 import { useEffect, useRef } from "react"
-import MicrosoftLogo from "./brand-logos/AdobeLogo"
-import AdobeLogo from "./brand-logos/adobe-logo"
+import MicrosoftLogo from "./brand-logos/microsoft-logo"
+import AdobeLogo from "./brand-logos/AdobeLogo"
 import GoogleLogo from "./brand-logos/google-logo"
 import NetflixLogo from "./brand-logos/netflix-logo"
 import NikeLogo from "./brand-logos/nike-logo"
+
 
 const brandLogos = [
   {
