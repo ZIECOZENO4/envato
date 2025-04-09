@@ -10,9 +10,8 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Unlimited Stock Footage | Envato Elements Clone",
+  title: "Unlimited Stock Footage | Invato Elements",
   description: "Professional-quality clips, authentic scenes, cinematic shots, and more.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({

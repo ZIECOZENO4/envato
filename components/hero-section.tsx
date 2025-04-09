@@ -92,7 +92,7 @@ export default function HeroSection() {
           className="w-full md:w-1/2 h-[400px] md:h-auto relative opacity-0 translate-x-4 transition-all duration-700 ease-out"
         >
           <Image
-            src="/placeholder.svg?height=600&width=800&text=Person+with+pink+balloons"
+            src="/invato1.jpeg"
             alt="Person holding pink balloons"
             fill
             className="object-cover"

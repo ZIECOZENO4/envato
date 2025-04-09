@@ -63,7 +63,7 @@ export default function SubscriptionBenefits() {
           ref={headingRef}
           className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 max-w-xl mb-16 opacity-0 translate-y-4 transition-all duration-700 ease-out"
         >
-          Envato. The must-have subscription for any creative.
+          Invato. The must-have subscription for any creative.
         </h2>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-12 gap-8">
@@ -245,7 +245,7 @@ export default function SubscriptionBenefits() {
               <div className="relative w-full max-w-md mx-auto">
                 <div className="rounded-full overflow-hidden aspect-square border-8 border-gray-200 relative z-10">
                   <Image
-                    src="/placeholder.svg?height=500&width=500&text=Creative"
+                    src="/invato2.jpeg"
                     alt="Creative professional"
                     width={500}
                     height={500}
